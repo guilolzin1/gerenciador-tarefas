@@ -1,3 +1,4 @@
+// Hotfix: Corrigido bug na exclusão de tarefas - versão 1.0.1
 // Array para armazenar as tarefas
 let tasks = [];
 let currentFilter = 'all';
